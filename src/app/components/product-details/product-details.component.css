@@ -1,0 +1,8 @@
+.detail{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  margin-top: -450px;
+margin-left: 120px;
+  flex-wrap: wrap;
+}
